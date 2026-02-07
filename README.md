@@ -8,16 +8,25 @@ I’m a passionate developer currently focused on mastering the MERN Stack, with
 💡 Currently Learning
 
 MongoDB
+
 Express.js
+
 React
+
 Node.js
 
 🛠️ Skills
+
 JavaScript (ES6+)
+
 HTML, CSS, Responsive Design
+
 React (Basics → Advanced)
+
 REST APIs
+
 Git & GitHub
+
 MS Excel & Data Handling
 
 🎯 Goal
