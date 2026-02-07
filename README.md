@@ -1,5 +1,30 @@
 # 💫 About Me:
-Hi! I’ve completed my BTech and I’m an aspiring MERN Stack Developer 🚀<br>I’m currently learning MERN Stack development with a strong focus on JavaScript and frontend technologies.<br><br>I enjoy writing clean code, practicing daily, and improving my problem-solving skills step by step.<br>I also have experience with MS Excel and data handling.<br><br>💡 Currently Learning: MERN Stack (MongoDB, Express, React, Node.js)<br>🎯 Goal: Become a skilled full-stack developer<br>📈 Always exploring and learning new technologies
+👋 Hi there! I'm Sagar
+
+🎓 BTech Graduate | 💻 Aspiring MERN Stack Developer
+
+I’m a passionate developer currently focused on mastering the MERN Stack, with a strong emphasis on JavaScript and frontend development. I enjoy building real-world projects, writing clean and maintainable code, and improving my problem-solving skills through consistent practice.
+
+💡 Currently Learning
+
+MongoDB
+Express.js
+React
+Node.js
+
+🛠️ Skills
+JavaScript (ES6+)
+HTML, CSS, Responsive Design
+React (Basics → Advanced)
+REST APIs
+Git & GitHub
+MS Excel & Data Handling
+
+🎯 Goal
+Become a skilled, industry-ready Full-Stack Developer
+
+📈 Mindset
+Always learning • Building daily • Growing step by step
 
 
 ## 🌐 Socials:
